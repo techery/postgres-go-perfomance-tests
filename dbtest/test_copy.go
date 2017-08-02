@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/jackc/pgx"
-	"github.com/serajam/payload-perfomance-tests/config"
+	"github.com/techery/payload-perfomance-tests/config"
 )
 
 // Copy test

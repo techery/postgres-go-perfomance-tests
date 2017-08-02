@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/serajam/payload-perfomance-tests/config"
-	"github.com/serajam/payload-perfomance-tests/dbtest"
+	"github.com/techery/payload-perfomance-tests/config"
+	"github.com/techery/payload-perfomance-tests/dbtest"
 )
 
 func main() {
